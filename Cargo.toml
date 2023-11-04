@@ -1,0 +1,8 @@
+[package]
+name = "http-status-codes"
+version = "0.1.0"
+edition = "2021"
+description = "HTTP response status codes"
+license = "ISC"
+
+[dependencies]
